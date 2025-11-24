@@ -16,6 +16,7 @@ This platform includes an end-to-end ETL pipeline using **PySpark**, data storag
 - Extracted public Toronto crime datasets.
 - Transformed and filtered data to retain only relevant records, removing noise for optimized performance.
 - Loaded cleaned data into a **MySQL** database.
+- **Docker**, **Kubernetes**, and **Terraform** to deploy ETL Workflow
 
 ### Visual Analytics (Tableau)
 - Designed interactive dashboards for temporal and spatial crime trends.
